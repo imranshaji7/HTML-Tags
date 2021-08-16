@@ -112,8 +112,7 @@ Eg: Ending < html > = < /html>
 <hr>
 <br>
 <li>< blockquote > = Same as < q >, but for larger quotes.
-
 <hr>
-<br><br>
+<br>
 <strong><u>END WITH < /BODY > & < /HTML ></u></strong>
 <HR SIZE=12 COLOR= "GREEN">

@@ -117,5 +117,3 @@ Eg: Ending < html > = < /html>
 <br><br>
 <strong><u>END WITH < /BODY > & < /HTML ></u></strong>
 <HR SIZE=12 COLOR= "GREEN">
-</body>
-</html>

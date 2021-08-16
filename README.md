@@ -17,9 +17,10 @@ START WITH < !DOCTYPE HTML ><BR>
 END A PROGRAM BY ADDING "/" BEFORE IT, 
 <br>
 Eg: Ending < html > = < /html>
+
 </strong>
 </em>
-
+<hr>
 <br><br>
 <li>< !DOCTYPE HTML > = Declares that the document is of HTML5
 

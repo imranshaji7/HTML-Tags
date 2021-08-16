@@ -18,7 +18,6 @@ END A PROGRAM BY ADDING "/" BEFORE IT,
 <br>
 Eg: Ending < html > = < /html>
 
-</strong>
 </em>
 <hr>
 <br><br>

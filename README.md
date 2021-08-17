@@ -5,9 +5,9 @@ All HTML5 Tags i know. Will update every now and then
 <meta charset="UTF-18">
 <html lang="en">
 <html>
-<head><title>Coding Tags</title></head>
+<head></head>
 
-<u><strong><p align="center"><font size=16px">Coding Tags</u></strong><font size=5">
+<u><strong><p align="center">HTML-Tags</u></strong>
 <body>
 <HR SIZE=12 COLOR= "GREEN">
 <strong><u>

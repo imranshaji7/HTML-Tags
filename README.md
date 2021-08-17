@@ -1,12 +1,13 @@
 # HTML-Tags
 All HTML5 Tags i know. Will update every now and then
 
+<!Doctype HTML>
 <meta charset="UTF-18">
 <html lang="en">
 <html>
 <head><title>Coding Tags</title></head>
 
-<u><strong><p align="center">
+<u><strong><p align="center"><font size=16px">Coding Tags</u></strong><font size=5">
 <body>
 <HR SIZE=12 COLOR= "GREEN">
 <strong><u>
@@ -17,9 +18,9 @@ START WITH < !DOCTYPE HTML ><BR>
 END A PROGRAM BY ADDING "/" BEFORE IT, 
 <br>
 Eg: Ending < html > = < /html>
-
+</strong>
 </em>
-<hr>
+
 <br><br>
 <li>< !DOCTYPE HTML > = Declares that the document is of HTML5
 
@@ -34,7 +35,7 @@ Eg: Ending < html > = < /html>
 
 <hr>
 <br>
-<li>< strong > = Make bold
+<li>< strong > OR < b > = Make bold ( use bold for just bold and strong to make it with urgency and importance, so that it delivers the correct meaning to voice browsers, etc.)
 
 
 <hr>
@@ -51,7 +52,7 @@ Eg: Ending < html > = < /html>
 
 <hr>
 <br>
-<li>< em > OR < i > = Puts the text in italics
+<li>< em > OR < i > = Puts the text in italics (Use em to stress emphasis for easier context for voice browsers, etc.)
 
 <hr>
 <br>
@@ -112,6 +113,10 @@ Eg: Ending < html > = < /html>
 <hr>
 <br>
 <li>< blockquote > = Same as < q >, but for larger quotes.
+
 <hr>
+<br><br>
 <strong><u>END WITH < /BODY > & < /HTML ></u></strong>
 <HR SIZE=12 COLOR= "GREEN">
+</body>
+</html>

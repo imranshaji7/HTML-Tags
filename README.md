@@ -1,13 +1,12 @@
 # HTML-Tags
 All HTML5 Tags i know. Will update every now and then
 
-<!Doctype HTML>
 <meta charset="UTF-18">
 <html lang="en">
 <html>
 <head></head>
 
-<u><strong><p align="center">HTML-Tags</u></strong>
+<u><strong><p align="center">HTML-Tags
 <body>
 <HR SIZE=12 COLOR= "GREEN">
 <strong><u>
@@ -118,5 +117,4 @@ Eg: Ending < html > = < /html>
 <br><br>
 <strong><u>END WITH < /BODY > & < /HTML ></u></strong>
 <HR SIZE=12 COLOR= "GREEN">
-</body>
-</html>
+
